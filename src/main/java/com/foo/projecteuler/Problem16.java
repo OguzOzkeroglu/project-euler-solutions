@@ -23,9 +23,9 @@ public class Problem16 implements EulerProblem {
 
 	@Override
 	public Long getResult() {
-		String strV = new BigDecimal(Math.pow(2, 1000)).toString();
+		String result = new BigDecimal(Math.pow(2, 1000)).toString();
 
-		strV.chars().forEach(c -> {
+		result.chars().forEach(c -> {
 			sum += Character.getNumericValue(c);
 		});
 

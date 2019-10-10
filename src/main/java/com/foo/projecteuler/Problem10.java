@@ -1,7 +1,6 @@
 package com.foo.projecteuler;
 
 /**
- * https://projecteuler.net/problem=10
  * 
  * <h2>Summation of primes</h2>
  * 
@@ -10,6 +9,7 @@ package com.foo.projecteuler;
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.10
+ * @see <a href="https://projecteuler.net/problem=10">Summation of primes</a>
  */
 
 public class Problem10 implements EulerProblem {

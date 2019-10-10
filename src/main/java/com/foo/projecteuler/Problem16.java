@@ -3,7 +3,6 @@ package com.foo.projecteuler;
 import java.math.BigDecimal;
 
 /**
- * https://projecteuler.net/problem=16
  * 
  * <h2>Power digit sum</h2>
  * 
@@ -12,6 +11,7 @@ import java.math.BigDecimal;
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.10
+ * @see <a href="https://projecteuler.net/problem=16">Power digit sum</a>
  */
 
 public class Problem16 implements EulerProblem {

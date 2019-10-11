@@ -7,10 +7,10 @@ import java.math.BigDecimal;
  * 
  * <p>n! means n × (n − 1) × ... × 3 × 2 × 1<br />
  *
- *	For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,<br />
- *	and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.<br />
- *	
- *	Find the sum of the digits in the number 100!</p>
+ * For example, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,<br />
+ * and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.<br />
+ *
+ * Find the sum of the digits in the number 100!</p>
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.11

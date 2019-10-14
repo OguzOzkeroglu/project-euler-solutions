@@ -1,5 +1,6 @@
 package com.foo.projecteuler;
 
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -33,10 +34,7 @@ public class Problem3 implements EulerProblem {
 				number /= i;
 			}
 		}
-
-		return (long) primeFactors.stream()
-				.mapToInt(v -> v)
-				.max()
-				.orElse(-1);
+		
+		return Long.valueOf(Collections.max(primeFactors));
 	}
 }

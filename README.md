@@ -9,3 +9,4 @@ Yet another Project Euler Solutions (with Java 8) repository
 * [Problem 16](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem16.java) - Power digit sum
 * [Problem 20](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem20.java) - Factorial digit sum
 * [Problem 22](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem22.java) - Names scores
+* [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem48.java) - Self powers

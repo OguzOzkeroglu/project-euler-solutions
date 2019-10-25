@@ -5,6 +5,7 @@ Yet another Project Euler Solutions (with Java 8) repository
 * [Problem 1](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem1.java) - Multiples of 3 and 5
 * [Problem 2](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem2.java) - Even Fibonacci numbers
 * [Problem 3](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem3.java) - Largest prime factor
+* [Problem 5](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem5.java) - Smallest multiple
 * [Problem 10](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem10.java) - Summation of primes
 * [Problem 16](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem16.java) - Power digit sum
 * [Problem 20](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem20.java) - Factorial digit sum

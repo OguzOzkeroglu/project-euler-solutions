@@ -11,10 +11,10 @@ package com.foo.projecteuler;
  * @see <a href="https://projecteuler.net/problem=1">Multiples of 3 and 5</a>
  */
 
-public class Problem1 implements EulerProblem {
+public class Problem001 implements EulerProblem {
 	
 	public static void main(String[] args) {
-		System.out.println(new Problem1().getResult());
+		System.out.println(new Problem001().getResult());
 	}
 
 	@Override

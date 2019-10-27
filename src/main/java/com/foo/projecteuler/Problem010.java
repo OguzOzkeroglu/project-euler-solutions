@@ -12,10 +12,10 @@ package com.foo.projecteuler;
  * @see <a href="https://projecteuler.net/problem=10">Summation of primes</a>
  */
 
-public class Problem10 implements EulerProblem {
+public class Problem010 implements EulerProblem {
 
 	public static void main(String[] args) {
-		System.out.println(new Problem10().getResult());
+		System.out.println(new Problem010().getResult());
 	}
 
 	@Override

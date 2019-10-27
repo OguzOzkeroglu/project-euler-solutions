@@ -12,9 +12,9 @@ package com.foo.projecteuler;
  * @see <a href="https://projecteuler.net/problem=4">Largest palindrome product</a>
  */
 
-public class Problem4 implements EulerProblem {
+public class Problem004 implements EulerProblem {
 	public static void main(String[] args) {
-		System.out.println(new Problem4().getResult());
+		System.out.println(new Problem004().getResult());
 	}
 
 	@Override

@@ -13,10 +13,10 @@ import java.math.BigDecimal;
  * @see <a href="https://projecteuler.net/problem=48">Self powers</a>
  */
 
-public class Problem48 implements EulerProblem {
+public class Problem048 implements EulerProblem {
 
 	public static void main(String[] args) {
-		System.out.println(new Problem48().getResult());
+		System.out.println(new Problem048().getResult());
 	}
 
 	@Override

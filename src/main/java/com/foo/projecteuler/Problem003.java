@@ -15,12 +15,12 @@ import java.util.Set;
  * @see <a href="https://projecteuler.net/problem=3">Largest prime factor</a>
  */
 
-public class Problem3 implements EulerProblem {
+public class Problem003 implements EulerProblem {
 	
 	private Set<Integer> primeFactors = new HashSet<>();
 
 	public static void main(String[] args) {
-		System.out.println(new Problem3().getResult());
+		System.out.println(new Problem003().getResult());
 	}
 
 	@Override

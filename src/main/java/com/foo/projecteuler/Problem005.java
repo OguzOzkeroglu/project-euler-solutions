@@ -14,12 +14,12 @@ import java.util.Set;
  * @see <a href="https://projecteuler.net/problem=5">Smallest multiple</a>
  */
 
-public class Problem5 implements EulerProblem {
+public class Problem005 implements EulerProblem {
 	
 	private Set<Integer> primeFactors = new HashSet<>();
 	
 	public static void main(String[] args) {
-		System.out.println(new Problem5().getResult());
+		System.out.println(new Problem005().getResult());
 	}
 
 	@Override

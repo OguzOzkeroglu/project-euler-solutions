@@ -26,12 +26,12 @@ import java.util.stream.IntStream;
  * @see <a href="https://projecteuler.net/problem=22">Names scores</a>
  */
 
-public class Problem22 implements EulerProblem {
+public class Problem022 implements EulerProblem {
 	private Map<String, Integer> alphabet = new HashMap<>();
 	private List<String> list = null;
 	
 	public static void main(String[] args) {
-		System.out.println(new Problem22().getResult());
+		System.out.println(new Problem022().getResult());
 	}
 
 	@Override

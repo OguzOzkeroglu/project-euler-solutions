@@ -15,10 +15,10 @@ package com.foo.projecteuler;
  * @see <a href="https://projecteuler.net/problem=2">Even Fibonacci numbers</a>
  */
 
-public class Problem2 implements EulerProblem {
+public class Problem002 implements EulerProblem {
 
 	public static void main(String[] args) {
-		System.out.println(new Problem2().getResult());
+		System.out.println(new Problem002().getResult());
 	}
 
 	@Override

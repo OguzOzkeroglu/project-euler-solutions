@@ -16,9 +16,9 @@ package com.foo.projecteuler;
  * @see <a href="https://projecteuler.net/problem=6">Sum square difference</a>
  */
 
-public class Problem6 implements EulerProblem {
+public class Problem006 implements EulerProblem {
 	public static void main(String[] args) {
-		System.out.println(new Problem6().getResult());
+		System.out.println(new Problem006().getResult());
 	}
 
 	@Override

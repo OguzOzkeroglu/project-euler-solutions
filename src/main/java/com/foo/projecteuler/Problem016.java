@@ -14,11 +14,11 @@ import java.math.BigDecimal;
  * @see <a href="https://projecteuler.net/problem=16">Power digit sum</a>
  */
 
-public class Problem16 implements EulerProblem {
+public class Problem016 implements EulerProblem {
 	long sum;
 
 	public static void main(String[] args) {
-		System.out.println(new Problem16().getResult());
+		System.out.println(new Problem016().getResult());
 	}
 
 	@Override

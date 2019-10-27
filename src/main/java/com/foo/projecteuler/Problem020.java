@@ -17,11 +17,11 @@ import java.math.BigDecimal;
  * @see <a href="https://projecteuler.net/problem=20">Factorial digit sum</a>
  */
 
-public class Problem20 implements EulerProblem {
+public class Problem020 implements EulerProblem {
 	long sum;
 
 	public static void main(String[] args) {
-		System.out.println(new Problem20().getResult());
+		System.out.println(new Problem020().getResult());
 	}
 
 	@Override

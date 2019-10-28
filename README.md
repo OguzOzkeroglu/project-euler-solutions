@@ -1,5 +1,5 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-# project-euler-solutions
+# Project Euler Solutions
 Yet another Project Euler Solutions (with Java 8) repository.<br />
 Please feel free to suggesting a better approach for any solution or creating a new pull request.
 

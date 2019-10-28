@@ -15,7 +15,6 @@ public class Problem007 implements EulerProblem {
 
 	public static void main(String[] args) {
 		System.out.println(new Problem007().getResult());
-
 	}
 
 	@Override

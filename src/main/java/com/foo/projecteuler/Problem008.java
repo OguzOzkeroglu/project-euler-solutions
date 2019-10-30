@@ -3,7 +3,7 @@ package com.foo.projecteuler;
 /**
  * <h2>Largest product in a series</h2>
  * 
- * <p>The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.<br />
+ * <p>The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
  * <center>
  * 73167176531330624919225119674426574742355349194934
  * 96983520312774506326239578318016984801869478851843
@@ -67,12 +67,10 @@ public class Problem008 implements EulerProblem {
 		long result = 1L;
 
 		for (int i = 0; i < number.length() - 12; i++) {
-			if (result < getProduct(i)) {
-				result = getProduct(i);
-			}
+			result = result < getProduct(i) ? getProduct(i) : result;
 		}
 
-		return (long) result;
+		return result;
 	}
 
 	private long getProduct(int i) {

@@ -4,7 +4,7 @@ Yet another Project Euler Solutions (with Java 8) repository.<br />
 Please feel free to suggesting a better approach for any solution or creating a new pull request.
 
 ## Problem List
-* [Problem 1](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem001.java) - Multiples of 3 and 5
+*  [Problem 1](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem001.java) - Multiples of 3 and 5
 * [Problem 2](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem002.java) - Even Fibonacci numbers
 * [Problem 3](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem003.java) - Largest prime factor
 * [Problem 4](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem004.java) - Largest palindrome product

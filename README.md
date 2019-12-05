@@ -14,6 +14,7 @@ Please feel free to suggesting a better approach for any solution or creating a 
 * [Problem 8](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem008.java) - Largest product in a series
 * [Problem 9](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem009.java) - Special Pythagorean triplet
 * [Problem 10](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem010.java) - Summation of primes
+* [Problem 14](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem014.java) - Longest Collatz sequence
 * [Problem 16](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem016.java) - Power digit sum
 * [Problem 20](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem020.java) - Factorial digit sum
 * [Problem 22](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem022.java) - Names scores

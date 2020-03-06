@@ -3,10 +3,7 @@ package com.foo.projecteuler;
 import java.math.BigDecimal;
 
 /**
- * <h2>Self powers</h2>
- * 
- * <p>The series, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.<br />
- * Find the last ten digits of the series, 1^1 + 2^2 + 3^3 + ... + 1000^1000.</p>
+ * Self powers
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.14

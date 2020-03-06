@@ -5,10 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * <h2>Largest prime factor</h2>
- * 
- * <p>The prime factors of 13195 are 5, 7, 13 and 29.<br />
- * What is the largest prime factor of the number 600851475143 ?</p>
+ * Largest prime factor
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.14

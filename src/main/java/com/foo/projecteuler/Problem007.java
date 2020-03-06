@@ -1,10 +1,7 @@
 package com.foo.projecteuler;
 
 /**
- * <h2>10001st prime</h2>
- * 
- * <p>By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.<br />
- * What is the 10 001st prime number?</p>
+ * 10001st prime
  * 
  * @author Oguz Ozkeroglu
  * Created on 2019.10.28

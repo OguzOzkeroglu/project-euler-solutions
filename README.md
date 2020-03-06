@@ -19,4 +19,5 @@ Please feel free to suggesting a better approach for any solution or creating a 
 * [Problem 16](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem016.java) - Power digit sum
 * [Problem 20](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem020.java) - Factorial digit sum
 * [Problem 22](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem022.java) - Names scores
+* [Problem 25](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem025.java) - 1000-digit Fibonacci number
 * [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem048.java) - Self powers

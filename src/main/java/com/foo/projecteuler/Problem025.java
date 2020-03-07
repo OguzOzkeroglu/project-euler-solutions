@@ -5,7 +5,8 @@ import java.math.BigDecimal;
 /**
  * 1000-digit Fibonacci number
  * 
- * @author Oguz Ozkeroglu Created on 2020.03.06
+ * @author Oguz Ozkeroglu
+ * Created on 2020.03.06
  * @see <a href="https://projecteuler.net/problem=25">1000-digit Fibonacci number</a>
  */
 

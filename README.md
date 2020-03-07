@@ -1,8 +1,7 @@
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![CodeFactor](https://www.codefactor.io/repository/github/oguzozkeroglu/project-euler-solutions/badge)](https://www.codefactor.io/repository/github/oguzozkeroglu/project-euler-solutions)
+
 # Project Euler Solutions
 Yet another Project Euler Solutions (with Java 8) repository.<br />
-Please feel free to suggesting a better approach for any solution or creating a new pull request.
 
 ## Problem List
 * [Problem 1](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem001.java) - Multiples of 3 and 5

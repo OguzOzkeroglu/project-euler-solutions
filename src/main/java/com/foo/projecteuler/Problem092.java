@@ -29,7 +29,6 @@ public class Problem092 implements EulerProblem {
 		IntStream.rangeClosed(1, 10_000_000).forEach(number -> {
 			has89.add(getChainList(number));
 		});
-		
 
 		return count + 1; // +1 for 89
 	}

@@ -25,7 +25,6 @@ public class Problem092 implements EulerProblem {
 
 	@Override
 	public Long getResult() {
-
 		IntStream.rangeClosed(1, 10_000_000).forEach(number -> {
 			has89.add(getChainList(number));
 		});

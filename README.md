@@ -23,3 +23,4 @@ Yet another Project Euler Solutions (with Java 8) repository.
 * [Problem 30](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem030.java) - Digit fifth powers
 * [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem048.java) - Self powers
 * [Problem 92](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem092.java) - Square digit chains
+* [Problem 97](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem097.java) - Large non-Mersenne prime

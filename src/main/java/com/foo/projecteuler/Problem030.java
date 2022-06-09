@@ -27,10 +27,8 @@ public class Problem030 implements EulerProblem {
 	}
 
 	private int getSumOfFifthPowers(int number) {
-		String s = Integer.toString(number);
-
-		return s.chars()
-				.map(c -> Character.getNumericValue(c))
+		return Integer.toString(number).chars()
+				.map(Character::getNumericValue)
 				.map(digit -> (int) (Math.pow(digit, 5)))
 				.sum();
 	}

@@ -36,7 +36,7 @@ public class Problem034 implements EulerProblem {
 	}
 
 	private int factorial(int number) {
-		return IntStream.rangeClosed(1, number)
+		return IntStream.rangeClosed(2, number)
 				.reduce(1, (x, y) -> x * y);
 	}
 }

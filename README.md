@@ -21,6 +21,7 @@ Yet another Project Euler Solutions (with Java 8) repository.
 * [Problem 22](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem022.java) - Names scores
 * [Problem 25](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem025.java) - 1000-digit Fibonacci number
 * [Problem 30](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem030.java) - Digit fifth powers
+* [Problem 34](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem034.java) - Digit factorials
 * [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem048.java) - Self powers
 * [Problem 92](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem092.java) - Square digit chains
 * [Problem 97](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem097.java) - Large non-Mersenne prime

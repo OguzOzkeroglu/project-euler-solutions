@@ -1,7 +1,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/oguzozkeroglu/project-euler-solutions/badge)](https://www.codefactor.io/repository/github/oguzozkeroglu/project-euler-solutions)
 
 # Project Euler Solutions
-Yet another Project Euler Solutions (with Java 8) repository.
+Yet another Project Euler Solutions (with Java 11) repository.
 
 ## Problem List
 * [Problem 1](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem001.java) - Multiples of 3 and 5
@@ -23,6 +23,7 @@ Yet another Project Euler Solutions (with Java 8) repository.
 * [Problem 29](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem029.java) - Distinct powers
 * [Problem 30](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem030.java) - Digit fifth powers
 * [Problem 34](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem034.java) - Digit factorials
+* [Problem 35](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem035.java) - Circular primes
 * [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem048.java) - Self powers
 * [Problem 92](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem092.java) - Square digit chains
 * [Problem 97](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem097.java) - Large non-Mersenne prime

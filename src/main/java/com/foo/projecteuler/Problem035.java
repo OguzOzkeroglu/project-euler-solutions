@@ -30,8 +30,8 @@ public class Problem035 implements EulerProblem {
 		.filter(str -> supplier.get().noneMatch(str::contains))
 		.filter(number -> isPrime(Integer.valueOf(number)))
 		.map(number -> {
-			int count = 0;
-			for (int i = 0; i < number.length(); i++) {
+			int count = 1;
+			for (int i = 1; i < number.length(); i++) { // don't calculate the number's itself, already filtered
 				String rotated = number.substring(i) + number.substring(0, i);
 				if (isPrime(Integer.valueOf(rotated))) {
 					count++;

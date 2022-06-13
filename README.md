@@ -26,5 +26,6 @@ Yet another Project Euler Solutions (with Java 11) repository.
 * [Problem 35](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem035.java) - Circular primes
 * [Problem 36](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem036.java) - Double-base palindromes
 * [Problem 48](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem048.java) - Self powers
+* [Problem 52](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem052.java) - Permuted multiples
 * [Problem 92](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem092.java) - Square digit chains
 * [Problem 97](https://github.com/OguzOzkeroglu/project-euler-solutions/blob/master/src/main/java/com/foo/projecteuler/Problem097.java) - Large non-Mersenne prime
